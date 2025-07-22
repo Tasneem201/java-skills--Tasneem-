@@ -53,17 +53,4 @@ public UserInfo(String name, int age, String email, boolean isActive) {
     }
 
     public static void main(String[] args){
-        UserInfo user1 = new UserInfo("Tasneem " , 24 , "Tas@gmail.com",true);
-        UserInfo user2 = new UserInfo("Ibrahim " , 30 , "Ibrahim@gmail.com",false);
-        UserInfo user3 = new UserInfo("Mohammed " , 45 , "mohd@gmail.com" , true);
-
-        user1.displayInfo();
-        user2.displayInfo();
-        user3.displayInfo();
-
-        user1.setAge(22);
-        System.out.println("Updated Age for " + user1.getName() + ": " + user1.getAge());
-
-
-    }
-}
+        U
