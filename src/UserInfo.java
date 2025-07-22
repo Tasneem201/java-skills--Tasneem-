@@ -53,6 +53,4 @@ public UserInfo(String name, int age, String email, boolean isActive) {
     }
 
     public static void main(String[] args){
-
-    }
-}
+        U
